@@ -7,7 +7,21 @@
 📘 I'm crrrently learning: <b>Image Processing</b>, <b>Algorithm</b> <br/>
 🌌 Welcome to visit my <b><a href = "https://rayhsu005.medium.com/"> blog </b>
   
- <h2>🧰 Tools I use </h2>
- <a href = "https://www.python.org/"><img src = "https://github.com/wavelolz/profile/blob/main/picture/python.png" width = 43 height = 42></a>
- <a href = "https://www.sas.com/en_us/home.html"><img src = "https://github.com/wavelolz/profile/blob/main/picture/sas2.png" width = 43 height = 42></a>
+ <h2>🧰 Language & Tools </h2>
+ <a href = "https://www.python.org/"><img src = "https://github.com/wavelolz/profile/blob/main/picture/python.png" width = 36 height = 36></a>
+ <a href = "https://www.sas.com/en_us/home.html"><img src = "https://github.com/wavelolz/profile/blob/main/picture/sas2.png" width = 36 height = 36></a>
+ <a href = "https://jupyter.org/"><img src = "https://github.com/wavelolz/profile/blob/main/picture/1200px-Jupyter_logo.svg.png" width = 36 height = 36></a>
+ <a href = "https://en.wikipedia.org/wiki/C_(programming_language)"><img src = "https://github.com/wavelolz/profile/blob/main/picture/c.png" width = 36 height = 36></a>
+ <a href = "https://www.mathworks.com/products/matlab.html"><img src = "https://github.com/wavelolz/profile/blob/main/picture/Matlab_Logo.png" width = 36 height = 36></a>
+ <a href = "https://www.codeblocks.org/"><img src = "https://github.com/wavelolz/profile/blob/main/picture/d73n2y9-fc7e0a66-1dd8-42d2-9aba-29a33990067b.png" width = 36 height = 36></a>
+ <a href = "https://code.visualstudio.com/"><img src = "https://github.com/wavelolz/profile/blob/main/picture/Visual_Studio_Code_1.35_icon.svg.png" width = 36 height = 36></a>
+ <a href = "https://en.wikipedia.org/wiki/LaTeX"><img src = "https://github.com/wavelolz/profile/blob/main/picture/LaTeX_logo.svg.png" width = 36 height = 36></a>
+ 
+ <h2>🚀 Projects </h2>
+ <b><a href = "https://github.com/wavelolz/Publication-Performance-Analysis">Publication Performance Analysis</a></b> <br/>
+ <b><a href = "https://github.com/wavelolz/PyQt-Hypothesis_Testing-Simulator">Hypothesis Testing Simulator</a></b>
+ 
+ <h2>📔 Notebook </h2>
+  <b><a href = "https://github.com/wavelolz/Algorithm">Algorithm Implementation</a></b> <br/>
+ 
   
