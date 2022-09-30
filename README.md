@@ -19,6 +19,8 @@
  <a href = "https://code.visualstudio.com/"><img src = "https://github.com/wavelolz/profile/blob/main/picture/Visual_Studio_Code_1.35_icon.svg.png" width = 36 height = 36></a>
  <a href = "https://en.wikipedia.org/wiki/LaTeX"><img src = "https://github.com/wavelolz/profile/blob/main/picture/LaTeX_logo.svg.png" width = 36 height = 36></a>
  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wavelolz&layout=compact&theme=merko)](https://github.com/wavelolz/github-readme-stats)
+ 
 
  <h2>🚀 Projects </h2>
  <b><a href = "https://github.com/wavelolz/Publication-Performance-Analysis">Publication Performance Analysis</a></b> <br/>
@@ -42,4 +44,3 @@
   &emsp;
   <a href = "https://www.facebook.com/hsu.ray.35"><img src = "https://github.com/wavelolz/profile/blob/main/picture/facebook.png" width = 36 height = 36></a>
  
-  
