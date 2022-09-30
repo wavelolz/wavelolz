@@ -37,7 +37,7 @@
  </ul>
  
  <h2>☎️ If you wish to contact me, or have a cup of coffee </h2>
-  <a href = "linkedin.com/in/ray-hsu-113a6a149"><img src = "https://github.com/wavelolz/profile/blob/main/picture/linkedin%20(1).png" width = 36 height = 36></a>
+  <a href = "https://www.linkedin.com/in/ray-hsu-113a6a149/"><img src = "https://github.com/wavelolz/profile/blob/main/picture/linkedin%20(1).png" width = 36 height = 36></a>
   &emsp;
   &emsp;
   <a href = "https://www.facebook.com/hsu.ray.35"><img src = "https://github.com/wavelolz/profile/blob/main/picture/facebook.png" width = 36 height = 36></a>
