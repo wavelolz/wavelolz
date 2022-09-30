@@ -18,6 +18,8 @@
  <a href = "https://www.codeblocks.org/"><img src = "https://github.com/wavelolz/profile/blob/main/picture/d73n2y9-fc7e0a66-1dd8-42d2-9aba-29a33990067b.png" width = 36 height = 36></a>
  <a href = "https://code.visualstudio.com/"><img src = "https://github.com/wavelolz/profile/blob/main/picture/Visual_Studio_Code_1.35_icon.svg.png" width = 36 height = 36></a>
  <a href = "https://en.wikipedia.org/wiki/LaTeX"><img src = "https://github.com/wavelolz/profile/blob/main/picture/LaTeX_logo.svg.png" width = 36 height = 36></a>
+ <br/>
+ <br/>
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wavelolz&layout=compact&theme=merko)](https://github.com/wavelolz/github-readme-stats)
  
