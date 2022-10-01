@@ -1,5 +1,6 @@
-
- <h1><img align = "center" src = "https://github.com/wavelolz/profile/blob/main/picture/hello-world.png" width = 50 heigh = 50> Hi, I'm Ray, Welcome to my website </h1>
+<p align = "center">
+ <img src = "https://github.com/wavelolz/profile/blob/main/picture/messagif.gif">
+</p>
  
  <h2>About me</h2>
 
@@ -40,7 +41,7 @@
   <li>🏸Passionate Badminton Player. If I am not on Github, then I must be at the court</i>
  </ul>
  
- <h2>☎️ If you wish to contact me, or have a cup of coffee </h2>
+ <h2>☎️ If you wish to contact me, or have a cup of coffee with me </h2>
   <a href = "https://www.linkedin.com/in/ray-hsu-113a6a149/"><img src = "https://github.com/wavelolz/profile/blob/main/picture/linkedin%20(1).png" width = 36 height = 36></a>
   &emsp;
   &emsp;
