@@ -1,5 +1,5 @@
 <p align = "center">
- <img src = "https://github.com/wavelolz/profile/blob/main/picture/messagif.gif">
+ <img src = "https://github.com/wavelolz/profile/blob/main/picture/intro.gif" height = 450>
 </p>
  
  <h2>About me</h2>
