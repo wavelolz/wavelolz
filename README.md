@@ -46,4 +46,7 @@
   &emsp;
   &emsp;
   <a href = "https://www.facebook.com/hsu.ray.35"><img src = "https://github.com/wavelolz/profile/blob/main/picture/facebook.png" width = 36 height = 36></a>
+  &emsp;
+  &emsp;
+  <a href = "https://www.instagram.com/crazyboycereal/"><img src = "https://github.com/wavelolz/profile/blob/main/picture/instagram.png" width = 36 height = 36></a>
  
