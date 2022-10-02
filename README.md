@@ -41,7 +41,7 @@ Hi, My name is Ray. A passionate data learner. I don't believe that data itself 
  
 <h2>😆 Fun Facts</h2>
  <ul>
-  <li>Ramen, Ramen, Ramen, I love to eat Ramen. If you are hungry, clik HERE !!!! </li>
+  <li>Ramen, Ramen, Ramen, I love to eat Ramen. If you are hungry, clik <b><a href = "https://wavelolz.github.io/Ramen/file.html">HERE !!!!</a></b> </li>
   <li>🍳Love Cooking🍳</li>
   <li>🏸Passionate Badminton Player. If I am not on Github, then I must be at the court</i>
  </ul>
