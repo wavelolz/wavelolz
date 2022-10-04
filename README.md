@@ -38,7 +38,7 @@ Hi, My name is Ray. A passionate data learner. I don't believe that data itself 
 <b><a href = "https://github.com/wavelolz/Algorithm">Algorithm Implementation</a></b> <br/>
 <b><a href = "https://github.com/wavelolz/GRE">GRE Materials</a></b> <br/>
 <b><a href = "https://github.com/wavelolz/python_learning">Python</a></b> <br/>
- 
+<b><a href = "https://github.com/wavelolz/C_learning">C</a></b> <br/>
 <h2>😆 Fun Facts</h2>
  <ul>
   <li>Ramen, Ramen, Ramen, I love to eat Ramen. If you are hungry, clik <b><a href = "https://wavelolz.github.io/Ramen/file.html">HERE !!!!</a></b> </li>
