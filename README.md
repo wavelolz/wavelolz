@@ -5,7 +5,7 @@
   &emsp;
   &emsp;
   
-Hi, My name is Ray. A passionate data learner. I don't believe that data itself could change the world, but I believe that data could convince humans that our world needs some changes. Through statistics, computer science, and most importantly -- we, human, we are able to reveal the secret of this mysterious world.
+Hi, My name is Ray. A passionate data learner. I don't believe that data itself could change the world, but I believe that data could convince humans that our world needs some changes. Through statistics, computer science, and most importantly -- we, human, we are able to reveal the secrets of this mysterious world.
 
  <h2>About me</h2>
 
