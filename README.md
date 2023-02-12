@@ -43,7 +43,7 @@ Hi, My name is Ray. A passionate data learner. I don't believe that data itself 
  <ul>
   <li>Ramen, Ramen, Ramen, I love to eat Ramen. If you are hungry, clik <b><a href = "https://wavelolz.github.io/Ramen/file.html">HERE !!!!</a></b> </li>
   <li>🍳Love Cooking🍳</li>
-  <li>🏸Passionate Badminton Player. If I am not on Github, then I must be at the court</i>
+  <li>🏸Passionate Badminton Player. If I am not on Github, then I must be on the court</i>
  </ul>
  
  <h2>☎️ If you wish to contact me, or have a cup of coffee with me </h2>
