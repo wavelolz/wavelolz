@@ -32,7 +32,8 @@ Hi, My name is Ray. A passionate data learner. I don't believe that data itself 
 
  <h2>🚀 Projects </h2>
  <b><a href = "https://github.com/wavelolz/Publication-Performance-Analysis">Publication Performance Analysis</a></b> <br/>
- <b><a href = "https://github.com/wavelolz/PyQt-Hypothesis_Testing-Simulator">Hypothesis Testing Simulator</a></b>
+ <b><a href = "https://github.com/wavelolz/PyQt-Hypothesis_Testing-Simulator">Hypothesis Testing Simulator</a></b> <br/>
+ <b><a href = "https://github.com/wavelolz/Fubon-Ebank-Captcha-Solver">Fubon-Ebank-Captcha-Solver</a></b>
  
  <h2>📔 Notebook </h2>
 <b><a href = "https://github.com/wavelolz/Algorithm">Algorithm Implementation</a></b> <br/>
@@ -41,7 +42,7 @@ Hi, My name is Ray. A passionate data learner. I don't believe that data itself 
 <b><a href = "https://github.com/wavelolz/C_learning">C</a></b> <br/>
 <h2>😆 Fun Facts</h2>
  <ul>
-  <li>Ramen, Ramen, Ramen, I love to eat Ramen. If you are hungry, clik <b><a href = "https://wavelolz.github.io/Ramen/file.html">HERE !!!!</a></b> </li>
+  <li>Ramen, Ramen, Ramen, I love to eat Ramen. If you are hungry, clik <b><a href = "https://wavelolz.github.io/Ramen/file.html">HERE</a></b> for all the fantasitc ramen I've tried </li>
   <li>🍳Love Cooking🍳</li>
   <li>🏸Passionate Badminton Player. If I am not on Github, then I must be on the court</i>
  </ul>
