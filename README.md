@@ -37,8 +37,10 @@ Hi, My name is Ray. A passionate data learner. I don't believe that data itself 
  <b><a href = "https://github.com/wavelolz/Fubon-Ebank-Captcha-Solver">Fubon Ebank Captcha Solver</a></b>
  
  <h2>📔 Notebook </h2>
+<b><a href = "https://github.com/wavelolz/leetcode_sql_sol">Leetcode Database Solution</b> <br/>
 <b><a href = "https://github.com/wavelolz/Algorithm">Algorithm Implementation</a></b> <br/>
-<b><a href = "https://github.com/wavelolz/GRE">GRE Materials</a></b> <br/>
+<b><a href = "https://github.com/wavelolz/GRE">GRE Materials</a></b>
+
 
 <h2>😆 Fun Facts</h2>
  <ul>
