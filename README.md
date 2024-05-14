@@ -10,9 +10,9 @@ Hi, My name is Ray. A passionate data learner. I don't believe that data itself 
  <h2>About me</h2>
 
 🏘️ I'm from: <b>Kaohsiung, Taiwan</b> <br/>
-💼 I'm currently: Student in <b><a href = "https://new.ntpu.edu.tw/">National Taipei University</a></b>, major in <b>Statistics</b> <br/>
-📘 I'm crrrently learning: <b>Image Processing</b>, <b>Algorithm</b> <br/>
-🌌 Welcome to visit my <b><a href = "https://rayhsu005.medium.com/"> blog </b>
+💼 I'm currently: A prospective student in <b><a href="https://www.rice.edu/">Rice University</b>, pursuing a degree in <b>Master of Data Science</b> <br/>
+📘 I'm crrrently learning: <b>Long Short Term Memory</b>, <b>Data Engineering</b> <br/>
+🌌 Welcome to visit my <b><a href = "https://wavelolz.com/"> personal website </b>
 
  
  <h2>🧰 Language & Tools </h2>
@@ -39,11 +39,10 @@ Hi, My name is Ray. A passionate data learner. I don't believe that data itself 
  <h2>📔 Notebook </h2>
 <b><a href = "https://github.com/wavelolz/Algorithm">Algorithm Implementation</a></b> <br/>
 <b><a href = "https://github.com/wavelolz/GRE">GRE Materials</a></b> <br/>
-<b><a href = "https://github.com/wavelolz/python_learning">Python</a></b> <br/>
-<b><a href = "https://github.com/wavelolz/C_learning">C</a></b> <br/>
+
 <h2>😆 Fun Facts</h2>
  <ul>
-  <li>Ramen, Ramen, Ramen, I love to eat Ramen. If you are hungry, clik <b><a href = "https://wavelolz.github.io/Ramen/file.html">HERE</a></b> for all the fantasitc ramen I've tried </li>
+  <li>Ramen, Ramen, Ramen, I love to eat Ramen. If you are hungry, clik <b><a href = "https://wavelolz.com/life/">HERE</a></b> for all the fantasitc ramen I've tried </li>
   <li>🍳Love Cooking🍳</li>
   <li>🏸Passionate Badminton Player. If I am not on Github, then I must be on the court</i>
  </ul>
