@@ -31,6 +31,7 @@ Hi, My name is Ray. A passionate data learner. I don't believe that data itself 
  
 
  <h2>🚀 Projects </h2>
+ <b><a href = "https://github.com/wavelolz/just_finance">Stockaroo - a long term holding simulation app</a></b> <br/>
  <b><a href = "https://github.com/wavelolz/Video-License-Plate-Recognition">Video License Plate Recognition</a></b> <br/>
  <b><a href = "https://github.com/wavelolz/Publication-Performance-Analysis">Publication Performance Analysis</a></b> <br/>
  <b><a href = "https://github.com/wavelolz/PyQt-Hypothesis_Testing-Simulator">Hypothesis Testing Simulator</a></b> <br/>
