@@ -10,7 +10,7 @@ Hi, My name is Ray. A passionate data learner. I don't believe that data itself 
  <h2>About me</h2>
 
 🏘️ I'm from: <b>Kaohsiung, Taiwan</b> <br/>
-💼 I'm currently: A prospective student in <b><a href="https://www.rice.edu/">Rice University</b>, pursuing a degree in <b>Master of Data Science</b> <br/>
+💼 I'm currently: I am currently a student at <b><a href="https://www.rice.edu/">Rice University</b>, pursuing a degree in <b>Master of Datat Science</b> <br/> 
 📘 I'm crrrently learning: <b>Long Short Term Memory</b>, <b>Data Engineering</b> <br/>
 🌌 Welcome to visit my <b><a href = "https://wavelolz.com/"> personal website </b>
 
@@ -31,7 +31,7 @@ Hi, My name is Ray. A passionate data learner. I don't believe that data itself 
  
 
  <h2>🚀 Projects </h2>
- <b><a href = "https://github.com/wavelolz/just_finance">Stockaroo - a long term holding simulation app</a></b> <br/>
+ <b><a href = "https://github.com/wavelolz/stockaroo">Stockaroo - a long term holding simulation app</a></b> <br/>
  <b><a href = "https://github.com/wavelolz/Video-License-Plate-Recognition">Video License Plate Recognition</a></b> <br/>
  <b><a href = "https://github.com/wavelolz/Publication-Performance-Analysis">Publication Performance Analysis</a></b> <br/>
  <b><a href = "https://github.com/wavelolz/PyQt-Hypothesis_Testing-Simulator">Hypothesis Testing Simulator</a></b> <br/>
